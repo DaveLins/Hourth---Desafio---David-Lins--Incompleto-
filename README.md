@@ -1,7 +1,7 @@
-# Hourth---Desafio---David-Lins--Icompleto-
+# Hourth---Desafio---David-Lins--Incompleto-
 Desafio da Hourth usando Python (Django) para criação de um visualizador de tabela estilizado por BootStrap e paginado também usando Ajax.
 
-Olá eu sou o David, responsavel pelo desenvolvimento do projeto que pertence ao desafio da Hourth. Como o título diz, ele está icompleto, siga abaixo os motivos, e até onde cheguei.
+Olá eu sou o David, responsavel pelo desenvolvimento do projeto que pertence ao desafio da Hourth. Como o título diz, ele está incompleto, siga abaixo os motivos, e até onde cheguei.
 
 1 - Eu me tranquei quando o assunto foi envolver ambiente virtual, mas busquei sobre e acabei entendendo o suficiente para dar continuidade ao desafio. Usei o Anaconda para criar o ambiente, mas sem sucesso! Parti para o Env e finalmente consegui destravar dessa parte.
 
